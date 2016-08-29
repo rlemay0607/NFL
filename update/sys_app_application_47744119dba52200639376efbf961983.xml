@@ -16,8 +16,8 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>47744119dba52200639376efbf961983</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Users</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NFL</sys_name>
         <sys_overrides/>
         <sys_package display_value="NFL" source="x_7882_nfl">0e33cd55db652200639376efbf96199e</sys_package>
         <sys_policy/>
@@ -25,8 +25,8 @@
         <sys_scope display_value="NFL">0e33cd55db652200639376efbf96199e</sys_scope>
         <sys_update_name>sys_app_application_47744119dba52200639376efbf961983</sys_update_name>
         <sys_updated_by>lemay.ryan@gmail.com</sys_updated_by>
-        <sys_updated_on>2016-08-29 01:37:21</sys_updated_on>
-        <title>Users</title>
+        <sys_updated_on>2016-08-29 01:52:07</sys_updated_on>
+        <title>NFL</title>
         <view_name/>
     </sys_app_application>
 </record_update>

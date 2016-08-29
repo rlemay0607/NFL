@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="NFL Teams" max_length="40" name="x_7882_nfl_nfl_teams" type="collection"/>
+</database>

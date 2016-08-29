@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>lemay.ryan@gmail.com</sys_created_by>
+        <sys_created_on>2016-08-29 01:53:45</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>53380159dba52200639376efbf961982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_7882_nfl_nfl_teams.itil</sys_name>
+        <sys_package display_value="NFL" source="x_7882_nfl">0e33cd55db652200639376efbf96199e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NFL">0e33cd55db652200639376efbf96199e</sys_scope>
+        <sys_security_acl display_value="x_7882_nfl_nfl_teams">5f380159dba52200639376efbf961980</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_53380159dba52200639376efbf961982</sys_update_name>
+        <sys_updated_by>lemay.ryan@gmail.com</sys_updated_by>
+        <sys_updated_on>2016-08-29 01:53:45</sys_updated_on>
+        <sys_user_role display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
