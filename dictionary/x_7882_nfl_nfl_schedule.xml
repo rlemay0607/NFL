@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="NFL Schedule" max_length="40" name="x_7882_nfl_nfl_schedule" type="collection">
+        <element label="Away Team" max_length="32" name="away_team" reference="x_7882_nfl_nfl_teams" type="reference"/>
+        <element label="Home Team" max_length="32" name="home_team" reference="x_7882_nfl_nfl_teams" type="reference"/>
+        <element label="Spread" max_length="40" name="spread" type="integer"/>
+        <element choice="1" label="Week" max_length="40" name="week" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="home_team"/>
+        </index>
+        <index name="index2">
+            <element name="away_team"/>
+        </index>
+    </element>
+</database>

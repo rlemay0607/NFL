@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NFL">47744119dba52200639376efbf961983</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>NFL Schedules</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_7882_nfl_nfl_schedule</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>itil</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>lemay.ryan@gmail.com</sys_created_by>
+        <sys_created_on>2016-08-29 02:06:44</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a13b0d99dba52200639376efbf9619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NFL Schedules</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NFL" source="x_7882_nfl">0e33cd55db652200639376efbf96199e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NFL">0e33cd55db652200639376efbf96199e</sys_scope>
+        <sys_update_name>sys_app_module_a13b0d99dba52200639376efbf9619b8</sys_update_name>
+        <sys_updated_by>lemay.ryan@gmail.com</sys_updated_by>
+        <sys_updated_on>2016-08-29 02:06:44</sys_updated_on>
+        <timeline_page/>
+        <title>NFL Schedules</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

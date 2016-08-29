@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="NFL Teams" max_length="40" name="x_7882_nfl_nfl_teams" type="collection"/>
+    <element label="NFL Teams" max_length="40" name="x_7882_nfl_nfl_teams" type="collection">
+        <element label="Logo" max_length="40" name="logo" type="user_image"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
 </database>
